@@ -1,0 +1,25 @@
+# Entornos
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos crudos y procesados
+data/raw/
+data/processed/
+
+# Modelos entrenados
+models/saved_models/
+
+# Reportes generados
+reports/figures/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
