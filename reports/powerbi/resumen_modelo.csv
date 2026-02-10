@@ -1,0 +1,8 @@
+metrica,valor
+Accuracy,94.2
+ROC-AUC,0.984
+Total Partidos,8617.0
+Partidos Train,6893.0
+Partidos Test,1724.0
+Predicciones Correctas,1624.0
+Predicciones Incorrectas,100.0
